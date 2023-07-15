@@ -110,7 +110,7 @@ class HomePage extends StatelessWidget {
                                     height: 12,
                                   ),
                                   Text(
-                                    'You are only able to change\nthe profile picture once',
+                                    'You are only able to change\nthe profile picture once.',
                                     style: TextStyle(
                                         color: grayColor, fontSize: 18),
                                     textAlign: TextAlign.center,
